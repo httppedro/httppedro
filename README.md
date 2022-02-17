@@ -1,7 +1,7 @@
 ### 🖖 Hello there!
 
 - 🔭 I’m currently working on DApps and DeFi
-- 🌱 I’m currently learning Taproot development
+- 🌱 I’m currently learning Blockchain Dev
 - 👯 I’m looking to collaborate on Bitcoin
 - 💬 Ask me about DeFi
 
