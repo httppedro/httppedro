@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httppedro&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
  
+ ## Languages:
  
  <p align="left"> 
   <div style="display: inline_block"><br>
