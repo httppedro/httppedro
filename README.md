@@ -1,6 +1,6 @@
 ###
 <!-- <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Victor</h1> -->
-<h1 align="center">Hello there <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="30px">, I'm Victor</h1>
+<h1 align="center">Hello there <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="30px">, I'm Pedro Victor</h1>
 <h3 align="center">I'm passionate about technologies, I'm always studing and I'll change the world with technologies, not the entire world, but, someone's world.</h3>
 
 
