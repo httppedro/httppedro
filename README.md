@@ -13,9 +13,9 @@
 - 💬 Ask me about DeFi
 -->
 
-<!--  <br/>
+ <br/>
   <a href="https://github.com/httppedro"><img alt="VICTOR Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=httppedro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/httppedro"><img alt="VICTOR Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httppedro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a href="https://github.com/httppedro"><img alt="VICTOR Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httppedro&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
